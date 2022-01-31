@@ -26,8 +26,8 @@
 ### 🦦 My GitHub Stats:
 <div align="center">
   <a href="https://github.com/rafaella-nunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaella-nunes&show_icons=true&&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaella-nunes&layout=compact&langs_count=6&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaella-nunes&show_icons=true&&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaella-nunes&layout=compact&langs_count=6&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
     
 
 <!-- **rafaella-nunes/rafaella-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
