@@ -4,14 +4,14 @@
   ![](https://img.shields.io/badge/HTML-f8efd4?style=for-the-badge&logo=html5&logoColor=d35400)
   ![](https://img.shields.io/badge/CSS-f8efd4?&style=for-the-badge&logo=css3&logoColor=3498db)
   ![](https://img.shields.io/badge/Java-f8efd4?style=for-the-badge&logo=java&logoColor=e74c3c)
-  ![](https://img.shields.io/badge/Python-f8efd4?style=for-the-badge&logo=python&logoColor=f1c40f)                                                                                 ![](https://img.shields.io/badge/C-f8efd4?style=for-the-badge&logo=c&logoColor=black)
+  ![](https://img.shields.io/badge/Python-f8efd4?style=for-the-badge&logo=python&logoColor=f1c40f)                                                                                 ![](https://img.shields.io/badge/C-f8efd4?style=for-the-badge&logo=c&logoColor=blue)
   ![](https://img.shields.io/badge/Markdown-f8efd4?style=for-the-badge&logo=markdown&logoColor=black)
+  ![](https://img.shields.io/badge/alloy-f8efd4?style=for-the-badge&logo=alloy&logoColor=black)
 
 
  ### 👩‍💻 Learning:
   ![](https://img.shields.io/badge/LaTeX-f8efd4?style=for-the-badge&logo=LaTeX&logoColor=black)
   ![](https://img.shields.io/badge/Sass-f8efd4?style=for-the-badge&logo=sass&logoColor=black)
-  ![](https://img.shields.io/badge/alloy-f8efd4?style=for-the-badge&logo=alloy&logoColor=black)
   ![](https://img.shields.io/badge/C%2B%2B-f8efd4?style=for-the-badge&logo=c%2B%2B&logoColor=black)
   ![](https://img.shields.io/badge/Bootstrap-f8efd4?style=for-the-badge&logo=bootstrap&logoColor=black)
   ![](https://img.shields.io/badge/C%23-f8efd4?style=for-the-badge&logo=c-sharp&logoColor=black)
