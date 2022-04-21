@@ -1,4 +1,4 @@
-<p> <h4> Hi! My name is Rafaella and I'm 20 years old. I'm currently studying Computer Science at UFAL, and I'm a Technician in Electronics at IFAL. </h4> </p>
+<p> <h4> Hi! My name is Rafaella and I'm 21 years old. I'm currently studying Computer Science at UFAL, and I'm a Technician in Electronics at IFAL. </h4> </p>
 
 ### 💻 My Skills:
   ![](https://img.shields.io/badge/HTML-f8efd4?style=for-the-badge&logo=html5&logoColor=d35400)
