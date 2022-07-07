@@ -12,7 +12,6 @@
  ### 👩‍💻 Learning:
   ![](https://img.shields.io/badge/LaTeX-f8efd4?style=for-the-badge&logo=LaTeX&logoColor=black)
   ![](https://img.shields.io/badge/Sass-f8efd4?style=for-the-badge&logo=sass&logoColor=black)
-  ![](https://img.shields.io/badge/C%2B%2B-f8efd4?style=for-the-badge&logo=c%2B%2B&logoColor=black)
   ![](https://img.shields.io/badge/Bootstrap-f8efd4?style=for-the-badge&logo=bootstrap&logoColor=black)
   ![](https://img.shields.io/badge/Dart-f8efd4?style=for-the-badge&logo=dart&logoColor=black)
   ![](https://img.shields.io/badge/Flutter-f8efd4?style=for-the-badge&logo=flutter&logoColor=black)
