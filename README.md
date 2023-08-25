@@ -11,8 +11,7 @@
 
 
  ### 👩‍💻 Learning:
-  ![](https://img.shields.io/badge/Bootstrap-f8efd4?style=for-the-badge&logo=bootstrap&logoColor=black)
-  ![](https://img.shields.io/badge/Flutter-f8efd4?style=for-the-badge&logo=flutter&logoColor=black)
+  ![](https://img.shields.io/badge/Redux-f8efd4?style=for-the-badge&logo=redux&logoColor=black)
   ![](https://img.shields.io/badge/Node.js-f8efd4?style=for-the-badge&logo=node.js&logoColor=black)
   ![](https://img.shields.io/badge/React-f8efd4?style=for-the-badge&logo=react&logoColor=black)
   
