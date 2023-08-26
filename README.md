@@ -8,6 +8,8 @@
   ![](https://img.shields.io/badge/Bootstrap-f8efd4?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
   ![](https://img.shields.io/badge/Angular-f8efd4?style=for-the-badge&logo=angular&logoColor=FF0000)
   ![](https://img.shields.io/badge/TailwindCSS-f8efd4?style=for-the-badge&logo=tailwindcss&logoColor=563d7c)
+  ![](https://img.shields.io/badge/Javascript-f8efd4?style=for-the-badge&logo=javascript&logoColor=yellow)
+  ![](https://img.shields.io/badge/Typescript-f8efd4?style=for-the-badge&logo=typescript&logoColor=blue)
 
 
  ### 👩‍💻 Learning:
