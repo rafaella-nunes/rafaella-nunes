@@ -16,10 +16,5 @@
   ![](https://img.shields.io/badge/Redux-f8efd4?style=for-the-badge&logo=redux&logoColor=black)
   ![](https://img.shields.io/badge/Node.js-f8efd4?style=for-the-badge&logo=node.js&logoColor=black)
   ![](https://img.shields.io/badge/React-f8efd4?style=for-the-badge&logo=react&logoColor=black)
-  
-### 🦦 My GitHub Stats:
-<div align="begin">
-  <a href="https://github.com/rafaella-nunes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaella-nunes&layout=compact&langs_count=6&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
     
 
